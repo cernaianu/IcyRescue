@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 910bbc8ec66e3834c9188dcdb2306e7d
+  - enabled: 1
+    path: Assets/Scenes/MountainsLevel.unity
+    guid: 726e9db71d8674746b72b7a01ebc727e
+  - enabled: 1
+    path: Assets/Scenes/LoseOneLifeScene.unity
+    guid: 663a1153aebaeeb4eafe798a0e695711
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: a20fe8ca62aed0d4fbc347441bea6f05
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: 5aad7b03c36552546aef387d7e592620
+  m_configObjects: {}
